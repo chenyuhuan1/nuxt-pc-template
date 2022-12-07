@@ -19,7 +19,7 @@
     "element-ui": "^2.4.11",
     "loadsh": "^0.0.4",
     "nuxt": "^2.0.0",
-    "qs": "^6.9.4",
+    "qs": "^6.7.3",
     "js-cookie": "^2.2.1"
   },
   "devDependencies": {
